@@ -1,0 +1,21 @@
+
+footer{
+    background: -webkit-linear-gradient(left, #0f2557 ,#330000);
+    color:#9d9d9d; 
+}
+
+.p-footer{
+	margin-left: 320px;
+}
+
+.imgbg{
+	margin-top: 15px;
+	height: 92%;
+	width: 100%;
+}
+
+.bg{
+	background: -webkit-linear-gradient(left, #0f2557 ,#330000);
+}
+
+
